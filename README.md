@@ -1,4 +1,4 @@
-Typing almost perfect sense since almost before the beginning.
+Typing almost perfect sense since almost before teh begnning.
 
 <!---
 penultimonkey/penultimonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
